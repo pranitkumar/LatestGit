@@ -15,10 +15,16 @@ public class RESTAPITest {
 		System.out.println("5");
 		System.out.println("6");
 		System.out.println("7");
+	
 		
-		
-		
+
+	}
+
+	public void test1() {
 		
 	}
 	
+public void test2() {
+		
+	}
 }

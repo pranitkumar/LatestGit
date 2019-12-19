@@ -17,6 +17,10 @@ public class AppTest
 		
 		System.out.println("by x ");
 		
+		System.out.println("App 1");
+		
+		System.out.println("App 2");
+		
 	}
     /**
      * Create the test case
@@ -25,7 +29,11 @@ public class AppTest
      */
     public AppTest( String testName )
     {
-        super( testName );
+    	System.out.println("App 3");
+    	
+    	System.out.println("App 4");
+    	
+       //s super( testName );
     }
 
     /**
